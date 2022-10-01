@@ -1,0 +1,54 @@
+com/applid/musicbox/notification/NofiticationCenter.java
+ com.applid.musicbox.notification.NofiticationCenter
+com/applid/musicbox/BuildConfig.java
+ com.applid.musicbox.BuildConfig
+com/applid/musicbox/adapters/SongAdapter.java
+ com.applid.musicbox.adapters.SongAdapter
+ com.applid.musicbox.adapters.SongAdapter$1
+ com.applid.musicbox.adapters.SongAdapter$ViewHolder
+com/applid/musicbox/models/DataReading.java
+ com.applid.musicbox.models.DataReading
+com/applid/musicbox/notification/Channel.java
+ com.applid.musicbox.notification.Channel
+interfaces/OnClickListen.java
+ interfaces.OnClickListen
+com/applid/musicbox/adapters/ViewPagerAdapter.java
+ com.applid.musicbox.adapters.ViewPagerAdapter
+com/applid/musicbox/models/Song.java
+ com.applid.musicbox.models.Song
+com/applid/musicbox/activities/MainActivity.java
+ com.applid.musicbox.activities.MainActivity
+ com.applid.musicbox.activities.MainActivity$1
+ com.applid.musicbox.activities.MainActivity$2
+ com.applid.musicbox.activities.MainActivity$3
+ com.applid.musicbox.activities.MainActivity$4
+ com.applid.musicbox.activities.MainActivity$5
+ com.applid.musicbox.activities.MainActivity$6
+ com.applid.musicbox.activities.MainActivity$7
+com/applid/musicbox/activities/PlayerActivity.java
+ com.applid.musicbox.activities.PlayerActivity
+ com.applid.musicbox.activities.PlayerActivity$1
+ com.applid.musicbox.activities.PlayerActivity$2
+ com.applid.musicbox.activities.PlayerActivity$3
+ com.applid.musicbox.activities.PlayerActivity$4
+ com.applid.musicbox.activities.PlayerActivity$5
+ com.applid.musicbox.activities.PlayerActivity$6
+ com.applid.musicbox.activities.PlayerActivity$7
+ com.applid.musicbox.activities.PlayerActivity$8
+com/applid/musicbox/fragments/AlbumsFragment.java
+ com.applid.musicbox.fragments.AlbumsFragment
+com/applid/musicbox/adapters/AlbumAdapter.java
+ com.applid.musicbox.adapters.AlbumAdapter
+ com.applid.musicbox.adapters.AlbumAdapter$ViewHolder
+com/applid/musicbox/activities/AlbumActivity.java
+ com.applid.musicbox.activities.AlbumActivity
+ com.applid.musicbox.activities.AlbumActivity$1
+ com.applid.musicbox.activities.AlbumActivity$2
+com/applid/musicbox/fragments/SongsFragment.java
+ com.applid.musicbox.fragments.SongsFragment
+ com.applid.musicbox.fragments.SongsFragment$1
+com/applid/musicbox/notification/NotiService.java
+ com.applid.musicbox.notification.NotiService
+com/applid/musicbox/adapters/SongAlbumAdapter.java
+ com.applid.musicbox.adapters.SongAlbumAdapter
+ com.applid.musicbox.adapters.SongAlbumAdapter$ViewHolder

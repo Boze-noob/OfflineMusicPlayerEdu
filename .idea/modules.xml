@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gramophone-MusicPlayer-master.iml" filepath="$PROJECT_DIR$/.idea/Gramophone-MusicPlayer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Gramophone-MusicPlayer-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mp3agic/Gramophone-MusicPlayer-master.mp3agic.iml" filepath="$PROJECT_DIR$/.idea/modules/mp3agic/Gramophone-MusicPlayer-master.mp3agic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mp3agic/Gramophone-MusicPlayer-master.mp3agic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mp3agic/Gramophone-MusicPlayer-master.mp3agic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mp3agic/Gramophone-MusicPlayer-master.mp3agic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mp3agic/Gramophone-MusicPlayer-master.mp3agic.test.iml" />
+    </modules>
+  </component>
+</project>
